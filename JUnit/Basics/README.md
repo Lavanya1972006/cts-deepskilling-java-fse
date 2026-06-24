@@ -18,7 +18,7 @@ Output: Test passed successfully
 Main Class: NumberUtil.java  
 Test Class: NumberUtilTest.java  
 Paths: src/main/java/com/example/, src/test/java/com/example/  
-Goal: Test number logic (Positive, Negative, Zero)  
+Goal: Test number logic (Positive)  
 Output: All tests passed  
 
 ------------------------------------------------------------
