@@ -57,5 +57,6 @@ JUnit 4.13.2
 
 # STRUCTURE
 src/main/java - Main application logic
+
 src/test/java - Unit test cases (JUnit)
 screenshots - Test results 
