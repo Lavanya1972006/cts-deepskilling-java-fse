@@ -1,0 +1,15 @@
+12:26:11 INFO  com.example.AppenderExample - Application started
+12:26:11 DEBUG com.example.AppenderExample - Debugging application flow
+12:26:11 WARN  com.example.AppenderExample - This is a warning message
+12:26:11 ERROR com.example.AppenderExample - Exception occurred: java.lang.ArithmeticException: / by zero
+12:26:11 INFO  com.example.AppenderExample - Application finished
+12:27:46 INFO  com.example.AppenderExample - Application started
+12:27:46 DEBUG com.example.AppenderExample - Debugging application flow
+12:27:46 WARN  com.example.AppenderExample - This is a warning message
+12:27:46 ERROR com.example.AppenderExample - Exception occurred: java.lang.ArithmeticException: / by zero
+12:27:46 INFO  com.example.AppenderExample - Application finished
+12:28:01 INFO  com.example.AppenderExample - Application started
+12:28:01 DEBUG com.example.AppenderExample - Debugging application flow
+12:28:01 WARN  com.example.AppenderExample - This is a warning message
+12:28:01 ERROR com.example.AppenderExample - Exception occurred: java.lang.ArithmeticException: / by zero
+12:28:01 INFO  com.example.AppenderExample - Application finished
