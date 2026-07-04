@@ -1,4 +1,4 @@
-package com.cognizant.spring_learn;
+package com.cognizant.springlearn;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
