@@ -1,5 +1,7 @@
 package com.cognizant.springlearn.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -12,6 +14,12 @@ public class CountryService {
     @Autowired
     private CountryDao countryDao;
 
+    // Get all countries
+    public List<Country> getAllCountries() {
+        return countryDao.getAllCountries();
+    }
+
+    // Get country by code
     public Country getCountry(String code) {
         return countryDao.getCountry(code);
     }
