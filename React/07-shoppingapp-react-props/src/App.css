@@ -1,0 +1,27 @@
+.mydiv {
+    text-align: center;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+table {
+    margin: auto;
+    border: 2px solid rgb(146, 149, 146);   /* Outer box */
+    border-collapse: separate;
+    border-spacing: 6px;           /* Space between outer box and cells */
+    padding: 5px;                  /* Space inside outer border */
+}
+
+th,
+td {
+    border: 2px solid rgb(141, 143, 141);
+    padding: 8px 15px;
+    color: rgb(73, 161, 73);
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
