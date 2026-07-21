@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin: 8px 0;
+}
+
+p {
+  margin: 8px 0;
+}
